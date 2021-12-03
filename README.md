@@ -58,7 +58,6 @@ Bask in your RFC-3514 compliance...
 # And now for something completely different...
 
 Suppose, perchance, you're one of those antisocial people who aren't interested in setting a good example by being RFC compliant. In that case, you might find this an interesting example of how you can use iptables' netfilter queues combined with scapy to rewrite
-packet contents on the fly, correcting checksums where necessary, all within the comfort of Python. But, of course, you might find that useful for
-other things as well.
+packet contents on the fly, correcting checksums where necessary, all within the comfort of Python.
 
-Who knows?
+Editing packets on the fly? That can always be a useful skill...
